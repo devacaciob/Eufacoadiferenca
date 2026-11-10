@@ -1,0 +1,26 @@
+{
+    "alunos": [
+        {
+            "id_aluno": 1001,
+            "nome": "Carlos",
+            "email": "carlos@email.com"
+        }
+    ],
+    "cursos": [
+        {
+            "id_curso": 101,
+            "nome": "Python Básico",
+            "descricao": "Introdução à programação com Python",
+            "carga_horaria": 40,
+            "vagas": 29
+        }
+    ],
+    "inscricoes": [
+        {
+            "id_inscricao": 1,
+            "id_aluno": 1001,
+            "id_curso": 101,
+            "status": "ativa"
+        }
+    ]
+}
